@@ -11,7 +11,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-To report a security vulnerability, please email: **security@[your-domain.com]**
+To report a security vulnerability, please contact **Dale Cochran** via [GitHub](https://github.com/cochbild).
 
 Include as much of the following information as possible:
 
