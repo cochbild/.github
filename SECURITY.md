@@ -23,13 +23,13 @@ Include as much of the following information as possible:
 - Proof-of-concept or exploit code (if possible)
 - Impact of the issue, including how an attacker might exploit it
 
-You should receive a response within **48 hours**. If not, please follow up.
+This is a solo-maintained project, so response times may vary. I will do my best to acknowledge your report and work toward a fix, but I cannot guarantee specific timelines.
 
 ## Disclosure Policy
 
-- We will acknowledge receipt of your report within 48 hours
-- We will confirm the vulnerability and determine its impact within 7 days
-- We will release a fix as soon as possible, depending on complexity
-- We will publicly disclose the vulnerability after the fix is released
+- I will acknowledge receipt of your report as soon as I can
+- I will investigate the vulnerability and assess its impact
+- I will release a fix when one is ready, depending on complexity and severity
+- I will coordinate public disclosure after the fix is available
 
-Thank you for helping keep this project and its users safe! 🙏
+Thank you for helping keep this project and its users safe.

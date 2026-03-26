@@ -27,7 +27,7 @@ Thanks for your interest in contributing! Here's how to get started.
 
 ## Code Review
 
-All submissions require review before merging. Maintainers may request changes — this is normal and collaborative.
+This is a solo-maintained project. I review PRs as time allows — it may take a while, but I appreciate your patience. I may request changes or suggest a different approach before merging.
 
 ## License
 

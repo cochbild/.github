@@ -23,9 +23,9 @@ We are committed to making participation in this project a harassment-free exper
 
 ## Enforcement
 
-Project maintainers are responsible for clarifying standards of acceptable behavior and will take appropriate and fair corrective action in response to any unacceptable behavior.
+As the sole maintainer, I am responsible for clarifying standards of acceptable behavior and will take appropriate corrective action in response to any unacceptable behavior.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting **Dale Cochran** via [GitHub](https://github.com/cochbild). All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting **Dale Cochran** via [GitHub](https://github.com/cochbild). All complaints will be reviewed and investigated fairly.
 
 ## Scope
 
